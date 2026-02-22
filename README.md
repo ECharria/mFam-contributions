@@ -41,7 +41,7 @@ Create the conda environment:
 
 ```bash
 conda env create -f environment.yml
-conda activate mfam-figure3
+conda activate mfam-explorer
 ```
 
 Then launch Jupyter:
