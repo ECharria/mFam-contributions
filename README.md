@@ -85,8 +85,13 @@ All figures are written to the results/ directory.
 
 ---
 
+If you find this useful, please cite: https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-fz6x8
+
+---
+
 ## Contact
 For questions regarding the analysis or implementation:
 
 Esteban Charria-Girón (esteban.charriagiron@wur.nl)
+
 mFam Collaboration
