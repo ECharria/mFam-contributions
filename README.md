@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ECharria/mFam-contributions/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2FChemoexplorer_Fig3.ipynb)
+
 # The MassBank contributions of the mFam Collaboration – Chemical space explorer
 
 This repository contains the code and data required to reproduce **Figure 3** from:
