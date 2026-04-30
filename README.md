@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ECharria/mFam-contributions/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2FChemoexplorer_Fig3.ipynb)
+
 # The MassBank contributions of the mFam Collaboration – Chemical space explorer
 
 This repository contains the code and data required to reproduce **Figure 3** from:
@@ -41,7 +43,7 @@ Create the conda environment:
 
 ```bash
 conda env create -f environment.yml
-conda activate mfam-figure3
+conda activate mfam-explorer
 ```
 
 Then launch Jupyter:
@@ -85,8 +87,13 @@ All figures are written to the results/ directory.
 
 ---
 
+If you find this useful, please cite: https://chemrxiv.org/doi/full/10.26434/chemrxiv-2025-fz6x8
+
+---
+
 ## Contact
 For questions regarding the analysis or implementation:
 
 Esteban Charria-Girón (esteban.charriagiron@wur.nl)
+
 mFam Collaboration
